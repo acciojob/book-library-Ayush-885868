@@ -7,7 +7,7 @@ body{
 .book-library{
 	width:500px;
 	background-color:#ffffff;
-	box-shadow:
+	box-shadow:10px 10px 8px 0.5px #988888
 	
 }
 .book>h2,p{
