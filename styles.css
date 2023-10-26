@@ -26,6 +26,9 @@ body{
 .book{
 	text-align:center;
 }
+.book>img{
+	margin:30px;
+}
 h1{
 	text-align:center;
 }
