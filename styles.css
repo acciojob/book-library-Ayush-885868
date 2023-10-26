@@ -1,15 +1,16 @@
 /*  your css code here. If applicable */
 body{
 	background-color:#f8f8f8;
-	text-align:center
+	
 	\
 }
 .book-library{
 	background-color:#ffffff;
 	\
 }
-.book>p{
+.book>h3,p{
 	color:#777777;
+	text-align:left;;
 	
 }
 .btn{
@@ -18,7 +19,7 @@ body{
 	color:white;
 	border-style:none;
 }
-book>img{
+
+.book{
 	text-align:center;
-	
 }
